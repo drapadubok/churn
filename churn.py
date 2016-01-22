@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import plotly.plotly as py
 import plotly.graph_objs as go
 import colorlover as cl
-## Credentials for plotly, feel in your own!
+## Credentials for plotly, fill in your own!
 py.sign_in('uname', 'apikey')
 
 
